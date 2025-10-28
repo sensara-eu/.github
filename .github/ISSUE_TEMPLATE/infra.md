@@ -23,3 +23,11 @@ _Expected amount of work_: <in hours>
 
 
 ### Remarks
+
+
+### Expected report
+For all tasks (both recurrent and non-recurrent tasks), we expect a short 'report' on the performed work. This should follow the following format:
+- **Executed by**: <name or mention>
+- **Executed when**: <date>
+- **Spent time**: <actual spend hours>
+- **Remarks**: <note weird or important things>
