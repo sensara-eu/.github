@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-[Provide a short description of what you found and what your first idea is that is needed (i.e. fix or investigation)]: #
+[Provide a short description of what you found and what your idea is that is needed (i.e. fix or investigation)]: #
 ### Context
 
 - _Type_ : <bug error other>
