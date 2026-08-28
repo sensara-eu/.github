@@ -7,6 +7,10 @@ assignees: ''
 
 ---
 
+## Benefits
+
+[Describe the benefits of this change in high-level terms, so it should be understandable by management]
+
 ## Context
 
 [Describe the current situation and why it is a problem]
